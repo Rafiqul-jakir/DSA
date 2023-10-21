@@ -19,11 +19,8 @@ However, when the complexity of the program increases, the linear data structure
 - Stack
 - Queue
 #### Non-linear data structure
-<<<<<<< HEAD
- elements in non-linear data structures are not in any sequence. Instead they are arranged in a hierarchical manner where one element will be connected to one or more elements.  
-=======
- elements in non-linear data structures are not in any sequence. Instead they are arranged in a hierarchical manner where one element will be connected to one or more elements.    
->>>>>>> a9df0bf649595eed29ec988f4eed645be354fba5
+ elements in non-linear data structures are not in any sequence. Instead they are arranged in a hierarchical manner where one element will be connected to one or more elements.   
+ 
 ***Non-linear data structures are further divided into graph and tree based data structures.***  
 #### 1. Graph Data Structure
 In graph data structure, each node is called vertex and each vertex is connected to other vertices through edges.
@@ -151,12 +148,6 @@ Similar to a graph, a tree is also a collection of vertices and edges. However, 
 - ***Examples:*** Finding the single non-repeating element.
 
 ### ***10. String Algorithms:***
-
-<<<<<<< HEAD
-- Pattern matching algorithms like KMP, Rabin-Karp, etc.
-
-=======
 - Pattern matching algorithms like KMP, Rabin-Karp, etc.  
 
 ***Happy Learning***
->>>>>>> a9df0bf649595eed29ec988f4eed645be354fba5
